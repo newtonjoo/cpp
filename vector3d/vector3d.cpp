@@ -62,7 +62,6 @@ int main(void) {
 
   // Test
   vector3d x(0.,0.,0);
-  x.print();
       
 }
 #endif
