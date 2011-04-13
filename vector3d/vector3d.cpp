@@ -59,5 +59,9 @@ int main(void) {
 
   // To calculate inner product between two vectors
   cout << "value : " << a.inner(b) << endl;
+
+  // Test
+  vector3d x(0.,0.,0);
+      
 }
 #endif
