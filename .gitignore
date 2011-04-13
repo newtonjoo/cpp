@@ -1,0 +1,12 @@
+# for svn files
+.svn
+# for ctags
+tags
+
+# for building
+*.[oa]
+a.out
+*.x
+*.MOD
+*.mod
+*.swp
