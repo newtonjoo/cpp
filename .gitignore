@@ -2,6 +2,9 @@
 .svn
 # for ctags
 tags
+# for backup
+*~
+*.swp
 
 # for building
 *.[oa]
@@ -9,4 +12,3 @@ a.out
 *.x
 *.MOD
 *.mod
-*.swp
